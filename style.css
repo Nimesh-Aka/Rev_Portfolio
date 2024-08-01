@@ -69,6 +69,7 @@ a:hover {
 /* Second Menu */
 
 #second-nav {
+    display: none;
 }
 
 .second-menu {
